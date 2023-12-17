@@ -15,7 +15,7 @@
 		"changelog" : "<h4>v0.1 released on December 15th, 2023</h4><ul><li>Initial release of Partenariat Wooster</li></ul>"
 	},
 	"banners" : {
-		"low" : "https://cdn-img.wooster.fr/app/uploads/wooster-badge/wooster-badge-low.jpeg",
-		"high" : "https://cdn-img.wooster.fr/app/uploads/wooster-badge/wooster-badge-high.jpeg"
+		"low" : "https://cdn-img.wooster.fr/app/uploads/wooster-badge/wooster-badge-low-v2.jpeg",
+		"high" : "https://cdn-img.wooster.fr/app/uploads/wooster-badge/wooster-badge-high-v2.jpeg"
 	}
 }
